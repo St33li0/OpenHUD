@@ -62,3 +62,5 @@ dkms.conf
 
 # Workspace files
 .vscode/*
+.vs/*
+CppProperties.json
